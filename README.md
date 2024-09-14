@@ -1,5 +1,5 @@
 # GTA5 Saver  
-中文文档:https://github.com/Baugle/Menu-Saver/blob/main/ReadmeCN.md
+中文文档:https://github.com/Baugle/Menu-Saver/blob/main/ReadmeCN.md  
 You can save the config that setted in the menu.  
 It uses ini to save the configuration.  
 You might change a few things, like variable names, which I know won't give you much to work with.    
