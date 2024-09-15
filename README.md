@@ -1,6 +1,6 @@
 # GTA5 Saver  
 中文文档:https://github.com/Baugle/Menu-Saver/blob/main/ReadmeCN.md  
-Suitable for:BigBaseV2  (Other versions may require adjustments)
+Suitable for:BigBaseV2  (Other versions may require adjustments)  
 Read: add the header file in the part of the menu that is started (e.g. DllMain) and call the function ReadUIIni(); at startup.  
 Save: add header file UIManager.hpp, call, for example, g_UiManager->SaveIni();  
 You can save the config that setted in the menu.  
