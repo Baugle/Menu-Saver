@@ -1,4 +1,5 @@
 # GTA5 菜单配置保存
+适用于BigBaseV2(其他版本可能需要修改)
 将Saver代码保存到你的项目中，  
 读取：在菜单中启动的部分（比如DllMain）中添加头文件，并在启动时调用函数ReadUIIni();  
 保存：添加头文件UIManager.hpp，调用，例如g_UiManager->SaveIni();  
